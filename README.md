@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 4 years.
+I am a Web development and Java enthusiasist persuing final year enginnering in SJBIT.
 
 ---
 
@@ -9,41 +9,29 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="data:image/png;base64,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" width="40" height="40">
 </p>
 
 ---
 
-## Experience
+## Achievements
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **JAVA**
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Java certificate of completion by Udemy
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **FRONTEND DEVELOPMENT**
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+Certificate of completion by Google and Microsoft for participating 7days Front end development 
+bootcamp
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
----
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **SJB INSTITUTE OF TECHNOLOGY**
+### BTech Computer Science (2019- 2023)
+GPA 8.85
 
 ---
 
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
